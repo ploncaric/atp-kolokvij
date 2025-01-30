@@ -1,6 +1,8 @@
 # ATP Kolokvij
 ## Wikipedija je globalan, višejezični projekt s ciljem izgradnje slobodne internetske enciklopedije koja je svima javno dostupna. Njezini su suradnici dobrovoljci. Wikipedijom danas rukovodi neprofitna organizacija
 
+[]Kreiraj
+[x]nemoj
 ```
 
 import yfinance as yf
